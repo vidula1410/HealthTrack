@@ -1,4 +1,4 @@
-# hospital-management-system
+# HealthTrack : Digital Health Management Suite
 Hospital Management System Project using Java 
 The "Hospital Management System" is a web-based Java project and has been deployed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and reduce the hardships faced by the existing system like paperwork.
 
