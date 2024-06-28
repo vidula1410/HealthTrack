@@ -9,5 +9,4 @@ TECHNOLOGIES USED
 2. Spring Boot
 3. JSP (Frontend)
 4. BootStrap
-6. Tomcat Server for executing our web-application
-7. Maven for project management
+
